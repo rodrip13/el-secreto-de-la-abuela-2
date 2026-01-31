@@ -1,0 +1,5 @@
+{
+  "name": "Sequence Memory Challenge",
+  "description": "A twist on the classic memory game where you must find numbers 1 to 20 in exact sequence. Features dynamic highlighting aids for hits and misses.",
+  "requestFramePermissions": []
+}
